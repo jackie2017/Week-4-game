@@ -1,0 +1,22 @@
+body {
+	background-image: url("../images/background.jpeg");
+
+
+}
+.crystals 
+	img{
+		width: 50px;
+		height: 50px;
+	}
+	h1 {
+		background-color: #c48a2d;
+		display: inline-block;
+	}
+
+}
+
+#randomNum {
+	width: 100px;
+	height: 50px;
+	background-color: #fafafa;
+}
